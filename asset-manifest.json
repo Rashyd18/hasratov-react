@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hasratov-react/static/css/main.908c6b76.chunk.css",
+    "main.js": "/hasratov-react/static/js/main.a8b067f6.chunk.js",
+    "main.js.map": "/hasratov-react/static/js/main.a8b067f6.chunk.js.map",
+    "runtime-main.js": "/hasratov-react/static/js/runtime-main.7fcb6337.js",
+    "runtime-main.js.map": "/hasratov-react/static/js/runtime-main.7fcb6337.js.map",
+    "static/css/2.a95be28f.chunk.css": "/hasratov-react/static/css/2.a95be28f.chunk.css",
+    "static/js/2.442c804a.chunk.js": "/hasratov-react/static/js/2.442c804a.chunk.js",
+    "static/js/2.442c804a.chunk.js.map": "/hasratov-react/static/js/2.442c804a.chunk.js.map",
+    "index.html": "/hasratov-react/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/hasratov-react/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.908c6b76.chunk.css.map": "/hasratov-react/static/css/main.908c6b76.chunk.css.map",
+    "static/js/2.442c804a.chunk.js.LICENSE.txt": "/hasratov-react/static/js/2.442c804a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fcb6337.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.442c804a.chunk.js",
+    "static/css/main.908c6b76.chunk.css",
+    "static/js/main.a8b067f6.chunk.js"
+  ]
+}
